@@ -34,14 +34,6 @@
       {
         "title": "guide 4",
         "image": "https://img.itch.zone/aW1hZ2UvNzkyNzc4LzQ5MDAxODYuanBn/original/%2FRp2Co.jpg"
-      },
-      {
-        "title": "guide 5",
-        "image": "https://i.redd.it/1ekcuvxfxs461.jpg"
-      },
-      {
-        "title": "guide 6",
-        "image": "https://wz2wb2k091u1i7klq667k147-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/23326986_web1_201113-OMH-Local-Game-Designer-Funky-Nights_2.jpg"
       }
     ],
 
@@ -97,34 +89,6 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://i.pinimg.com/originals/81/0a/3b/810a3b486ce462fd3d13454547ff8f01.png",
         "text": "Other games similar to Friday Night Funkin’ \n \n Bemuse is another excellent rhythm game that you can play for free, and it’ll help you practice keystrokes for Friday Night Funkin’. Although PaRappa the Rapper is one of the oldest rhythm games and was published for PlayStation back in 1996, it still delivers hours of fun. Other interactive and fun games that hit the scene big time recently is Among Us and Night of the Dead.",
-        "isNative": "false"
-      }
-    ],
-    
-    "content5": [
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": "false"
-      }
-    ],
-    
-    "content6": [
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
         "isNative": "false"
       }
     ]
