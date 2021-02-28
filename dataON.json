@@ -48,7 +48,7 @@
     "content1": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+        "color": "#FFFFFF","style": "normal",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
