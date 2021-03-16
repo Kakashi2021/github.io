@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://cdn.futura-sciences.com/buildsv6/images/wide1920/5/7/2/572b6acb60_50157373_banniere-pixabay.jpg"
+      },
+      {
+        "title": "Guid 2",
+        "image": "http://www.webat25.org/wp-content/uploads/2019/04/services-vpn.jpg"
+      },
+      {
+        "title": "Guid 3",
+        "image": "http://www.onlinetroc.fr/wp-content/uploads/2019/11/vpn-conseils.jpg"
+      },
+      {
+        "title": "Guid 4",
+        "image": "http://www.onlinetroc.fr/wp-content/uploads/2019/11/vpn-conseils.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "http://www.onlinetroc.fr/wp-content/uploads/2019/11/vpn-conseils.jpg",
+        "text": "100% VPN Unblock Master & Access your favorite sites wherever you ar \n \n- Bypass the firewalls as school free VPN proxy for school wifi.\n- Bypass geo-restrictions, internet filters and censorship.\n- Unblock websites with free VPN proxy server. It can also unblock video not available in your country.\n- Unblock VoIP networks and video call, such as: Skype, Viber, WhatsCall, Imo etc ...",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "http://www.onlinetroc.fr/wp-content/uploads/2019/11/vpn-conseils.jpg",
+        "text": "√ Incognito browsing anonymously - hide ip like tor onion \n \n- The most reliable privacy guard and safety shield tunnel for online browsing\n- no logs and never upload privacy information\n- Encrypts your internet traffic, protect your privacy, and keep you safe from 3rd party tracking for your information security\n- Protect your data from hackers when you’re connected to a public WIFI hotspot shield.\n- Encrypts data using IPsec(IKEv2), OpenVPN protocols (UDP / TCP), Shadowsocks.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "http://www.webat25.org/wp-content/uploads/2019/04/services-vpn.jpg",
+        "text": "√ Secure all online activities \n \n - Protect your mobile security, so your connection privacy and personal information will be protected from hackers, identity theft, and other malicious activities when we detect a public Wi-Fi network.\n- Enjoy private browsing.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://cdn.futura-sciences.com/buildsv6/images/wide1920/5/7/2/572b6acb60_50157373_banniere-pixabay.jpg",
+        "text": "√ VIP high speed servers \n \n - A range of VIP VPN servers are available on purchase at cheapest prices. Lower price but super faster speed.\nSecure VPN is the most trusted security, privacy and access platform with top performance on speed, stability and security to unblock sites, unblock any apps or websites, access social networks, watch videos and movies, protect Wi-Fi hotspot security and protect privacy.",
+        "isNative": "false"
+      }
+    ]
+  }
+}
