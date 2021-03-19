@@ -44,7 +44,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "true","link_title": "Download here","setLink": "https://happymod.fr.uptodown.com/android/telecharger",
         "image_link": "https://apkdl.io/wp-content/uploads/2021/01/happymod-apk-features.png",
         "text": "HappyMod offers an app store experience, with plenty of apps and games available for download. However, unlike the PlayStore, everything is free, and HappyMod is also community-driven. That means anyone can upload a modded app version to the store, and users test them out. They leave comments on the apps, allowing the moderators to determine which ones are the best mods, moving them to the top of the list.",
         "isNative": "false"
