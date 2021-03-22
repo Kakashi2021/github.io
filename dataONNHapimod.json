@@ -44,7 +44,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Download here","setLink": "https://happymod.fr.uptodown.com/android/telecharger",
+        "isLink": "false","link_title": "Download here","setLink": "https://happymod.fr.uptodown.com/android/telecharger",
         "image_link": "https://apkdl.io/wp-content/uploads/2021/01/happymod-apk-features.png",
         "text": "HappyMod offers an app store experience, with plenty of apps and games available for download. However, unlike the PlayStore, everything is free, and HappyMod is also community-driven. That means anyone can upload a modded app version to the store, and users test them out. They leave comments on the apps, allowing the moderators to determine which ones are the best mods, moving them to the top of the list.",
         "isNative": "false"
@@ -86,7 +86,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "true","link_title": "Download here","setLink": "https://happymod.fr.uptodown.com/android/telecharger",
         "image_link": "https://www.gridam.com/wp-content/uploads/2020/09/happymod-pctablet.png",
         "text": "Why is HappyMod So Different? \n \n Simply because of what it offers. Not only are you getting an app store full of modified and cracked apps for free, but you can also join in – if you find a modded app on the internet that you think should be included, upload it to the store. Provided it passes the safety and security checks, it will be added for other users to try out. The best games and apps are placed first in the lists, ensuring you download fully working content. \nHappyMod is the newest Android app store, offering a unique experience. Give it a go today and let the developers know your thoughts.",
         "isNative": "false"
