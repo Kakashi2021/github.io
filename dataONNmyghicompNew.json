@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://1.bp.blogspot.com/-tCh_I5R93Pk/YDkIL0kDuOI/AAAAAAAB7QI/B7GNTshnwaE6eQIuvwjLXJSBUo0xdMw9ACLcBGAsYHQ/s640/%25D9%258A%25D8%25AA%25D9%258A%25D8%25AD%2B%25D9%2584%25D9%2583%2B%25D9%2585%25D9%2588%25D9%2582%25D8%25B9%2BMyHeritage%2B%25D8%25A7%25D9%2584%25D8%25A2%25D9%2586%2B%25D8%25AA%25D8%25AD%25D8%25B1%25D9%258A%25D9%2583%2B%25D8%25B5%25D9%2588%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D8%25A6%25D9%2584%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2582%25D8%25AF%25D9%258A%25D9%2585%25D8%25A9%2B%25D8%25A3%25D9%2588%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25AF%25D9%258A%25D8%25AF%25D8%25A9%2B%25D8%25A5%25D9%2584%25D9%2589%2B%25D9%2585%25D9%2582%25D8%25A7%25D8%25B7%25D8%25B9%2B%25D9%2581%25D9%258A%25D8%25AF%25D9%258A%25D9%2588%2B%25D8%25A8%25D8%25AA%25D9%2582%25D9%2586%25D9%258A%25D8%25A9%2Bdeepfake.jpg"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://1.bp.blogspot.com/-tCh_I5R93Pk/YDkIL0kDuOI/AAAAAAAB7QI/B7GNTshnwaE6eQIuvwjLXJSBUo0xdMw9ACLcBGAsYHQ/s640/%25D9%258A%25D8%25AA%25D9%258A%25D8%25AD%2B%25D9%2584%25D9%2583%2B%25D9%2585%25D9%2588%25D9%2582%25D8%25B9%2BMyHeritage%2B%25D8%25A7%25D9%2584%25D8%25A2%25D9%2586%2B%25D8%25AA%25D8%25AD%25D8%25B1%25D9%258A%25D9%2583%2B%25D8%25B5%25D9%2588%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D8%25A6%25D9%2584%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2582%25D8%25AF%25D9%258A%25D9%2585%25D8%25A9%2B%25D8%25A3%25D9%2588%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25AF%25D9%258A%25D8%25AF%25D8%25A9%2B%25D8%25A5%25D9%2584%25D9%2589%2B%25D9%2585%25D9%2582%25D8%25A7%25D8%25B7%25D8%25B9%2B%25D9%2581%25D9%258A%25D8%25AF%25D9%258A%25D9%2588%2B%25D8%25A8%25D8%25AA%25D9%2582%25D9%2586%25D9%258A%25D8%25A9%2Bdeepfake.jpg"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://1.bp.blogspot.com/-tCh_I5R93Pk/YDkIL0kDuOI/AAAAAAAB7QI/B7GNTshnwaE6eQIuvwjLXJSBUo0xdMw9ACLcBGAsYHQ/s640/%25D9%258A%25D8%25AA%25D9%258A%25D8%25AD%2B%25D9%2584%25D9%2583%2B%25D9%2585%25D9%2588%25D9%2582%25D8%25B9%2BMyHeritage%2B%25D8%25A7%25D9%2584%25D8%25A2%25D9%2586%2B%25D8%25AA%25D8%25AD%25D8%25B1%25D9%258A%25D9%2583%2B%25D8%25B5%25D9%2588%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D8%25A6%25D9%2584%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2582%25D8%25AF%25D9%258A%25D9%2585%25D8%25A9%2B%25D8%25A3%25D9%2588%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25AF%25D9%258A%25D8%25AF%25D8%25A9%2B%25D8%25A5%25D9%2584%25D9%2589%2B%25D9%2585%25D9%2582%25D8%25A7%25D8%25B7%25D8%25B9%2B%25D9%2581%25D9%258A%25D8%25AF%25D9%258A%25D9%2588%2B%25D8%25A8%25D8%25AA%25D9%2582%25D9%2586%25D9%258A%25D8%25A9%2Bdeepfake.jpg"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://1.bp.blogspot.com/-tCh_I5R93Pk/YDkIL0kDuOI/AAAAAAAB7QI/B7GNTshnwaE6eQIuvwjLXJSBUo0xdMw9ACLcBGAsYHQ/s640/%25D9%258A%25D8%25AA%25D9%258A%25D8%25AD%2B%25D9%2584%25D9%2583%2B%25D9%2585%25D9%2588%25D9%2582%25D8%25B9%2BMyHeritage%2B%25D8%25A7%25D9%2584%25D8%25A2%25D9%2586%2B%25D8%25AA%25D8%25AD%25D8%25B1%25D9%258A%25D9%2583%2B%25D8%25B5%25D9%2588%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D8%25A6%25D9%2584%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2582%25D8%25AF%25D9%258A%25D9%2585%25D8%25A9%2B%25D8%25A3%25D9%2588%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25AF%25D9%258A%25D8%25AF%25D8%25A9%2B%25D8%25A5%25D9%2584%25D9%2589%2B%25D9%2585%25D9%2582%25D8%25A7%25D8%25B7%25D8%25B9%2B%25D9%2581%25D9%258A%25D8%25AF%25D9%258A%25D9%2588%2B%25D8%25A8%25D8%25AA%25D9%2582%25D9%2586%25D9%258A%25D8%25A9%2Bdeepfake.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.today24.news%2Fen%2F2021%2F03%2Fdeep-nostalgia-this-app-brings-old-photos-to-life-and-its-very-disturbing.html&psig=AOvVaw0zhA1uyKYAAyblrBWB8Zp7&ust=1617126943311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCcsdCK1u8CFQAAAAAdAAAAABAJ",
+        "text": "MyHeritage Animated Photo Guide app help you to know how to use MyHeritage app. Most of all, we love that myheritage is creating massive interest in genealogy, especially among the younger generations.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.today24.news%2Fen%2F2021%2F03%2Fdeep-nostalgia-this-app-brings-old-photos-to-life-and-its-very-disturbing.html&psig=AOvVaw0zhA1uyKYAAyblrBWB8Zp7&ust=1617126943311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCcsdCK1u8CFQAAAAAdAAAAABAJ",
+        "text": "We knew that lovers of family history would be thrilled to see their beloved ancestors’ faces come to life. We also knew that it had the potential to go viral, and we hoped that would happen, but the extent of its success exceeded our expectations. We are humbled by its popularity and we love seeing all the examples shared from all over the world.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.today24.news%2Fen%2F2021%2F03%2Fdeep-nostalgia-this-app-brings-old-photos-to-life-and-its-very-disturbing.html&psig=AOvVaw0zhA1uyKYAAyblrBWB8Zp7&ust=1617126943311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCcsdCK1u8CFQAAAAAdAAAAABAJ",
+        "text": "The last stage To download the official app",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot.toopwombo",
+        "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.today24.news%2Fen%2F2021%2F03%2Fdeep-nostalgia-this-app-brings-old-photos-to-life-and-its-very-disturbing.html&psig=AOvVaw0zhA1uyKYAAyblrBWB8Zp7&ust=1617126943311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCcsdCK1u8CFQAAAAAdAAAAABAJ",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
