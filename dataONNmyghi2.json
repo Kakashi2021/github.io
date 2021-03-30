@@ -5,11 +5,11 @@
     "AdsController": [
       {
         "NetworkAds": "admob",
-        "AdMobId": "pub-3940256099942544",
+        "AdMobId": "pub-7393779888252652",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-7393779888252652/8121424561",
+        "InterstitialAdmob": "ca-app-pub-7393779888252652/8424676893",
+        "NativeAdmob": "ca-app-pub-7393779888252652/1859268546",
 
         "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
@@ -86,7 +86,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot.toopwombo",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.Heritagetop.toop",
         "image_link": "https://static1.makeuseofimages.com/wp-content/uploads/2021/02/myheritage-deep-nostalgia.png",
         "text": "Download the app from here",
         "isNative": "false"
