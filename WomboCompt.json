@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://mlm5kjm6vtpa.i.optimole.com/T9FVNDI-yYzA5atO/w:678/h:381/q:74/rt:fill/g:ce/https://theprotechie.com/wp-content/uploads/2021/03/Screenshot_2021-03-13-19-24-24-305_com.android.chrome-min-e1615644299906.jpg"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://mlm5kjm6vtpa.i.optimole.com/T9FVNDI-yYzA5atO/w:678/h:381/q:74/rt:fill/g:ce/https://theprotechie.com/wp-content/uploads/2021/03/Screenshot_2021-03-13-19-24-24-305_com.android.chrome-min-e1615644299906.jpg"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://mlm5kjm6vtpa.i.optimole.com/T9FVNDI-yYzA5atO/w:678/h:381/q:74/rt:fill/g:ce/https://theprotechie.com/wp-content/uploads/2021/03/Screenshot_2021-03-13-19-24-24-305_com.android.chrome-min-e1615644299906.jpg"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://mlm5kjm6vtpa.i.optimole.com/T9FVNDI-yYzA5atO/w:678/h:381/q:74/rt:fill/g:ce/https://theprotechie.com/wp-content/uploads/2021/03/Screenshot_2021-03-13-19-24-24-305_com.android.chrome-min-e1615644299906.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://android-mody.com/wp-content/uploads/2021/03/1615672907_140_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-Lip-Sync-Wombo-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D9%8A%D8%AC%D8%B9%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%83-%D8%A7%D9%84%D9%85%D9%81%D8%B6%D9%84%D8%A9-%D8%AA%D8%BA%D9%86%D9%8A.jpg",
+        "text": "- Upload Images — Ever wondered what your friend, family member or pet would look like singing a song? Upload their picture to WOMBO and find out!",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://android-mody.com/wp-content/uploads/2021/03/1615672907_140_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-Lip-Sync-Wombo-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D9%8A%D8%AC%D8%B9%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%83-%D8%A7%D9%84%D9%85%D9%81%D8%B6%D9%84%D8%A9-%D8%AA%D8%BA%D9%86%D9%8A.jpg",
+        "text": "- Tons of tunes — From old favourites to the latest hits, WOMBO's music selection is constantly growing so you can find your rhythm and share it with the world.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "https://android-mody.com/wp-content/uploads/2021/03/1615672907_140_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-Lip-Sync-Wombo-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D9%8A%D8%AC%D8%B9%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%83-%D8%A7%D9%84%D9%85%D9%81%D8%B6%D9%84%D8%A9-%D8%AA%D8%BA%D9%86%D9%8A.jpg",
+        "text": "The last stage To download the official app",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot.toopwombo",
+        "image_link": "https://android-mody.com/wp-content/uploads/2021/03/1615672907_140_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-Lip-Sync-Wombo-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D9%8A%D8%AC%D8%B9%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%83-%D8%A7%D9%84%D9%85%D9%81%D8%B6%D9%84%D8%A9-%D8%AA%D8%BA%D9%86%D9%8A.jpg",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
