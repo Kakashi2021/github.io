@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://dlandroid.com/wp-content/uploads/AnTuTu-Benchmark-Apk-Android.jpg"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://i1.wp.com/www.yugatech.com/wp-content/uploads/2019/12/Antutu-Logo.jpg?resize=720%2C352&ssl=1"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://img.talkandroid.com/uploads/2020/03/antutu-benchmark-logo.png"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://i1.wp.com/www.yugatech.com/wp-content/uploads/2019/12/Antutu-Logo.jpg?resize=720%2C352&ssl=1"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://img.apksum.com/da/com.tips.antutu.guide/1.2/icon.png",
+        "text": "This app is not a game. It's just an application providing insturctions about ANTUTU test .\nThis New App made for instructions purpose and it's just a guide showing you how to make the right ANTUTU score test in a professional way",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://pplware.sapo.pt/wp-content/uploads/2020/08/antutu_falsas_apps00.jpg",
+        "text": "AnTuTu is a Chinese software benchmarking tool commonly used to benchmark phones and other devices. It is owned by Chinese company Cheetah Mobile",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://m.iguides.ru/upload/iblock/773/7734a408e2c9d8d50895994a95ed0192.jpg",
+        "text": "In this app you will finde mayn advice and tips of the most popular benchmarking score applications\nAntutu guide app doesn't ask for any user permissions.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot.toopwombo",
+        "image_link": "https://gadget.jagatreview.com/wp-content/uploads/2019/10/antutu-cover.png",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
