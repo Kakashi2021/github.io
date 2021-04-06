@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://ezstarsapk.com/wp-content/uploads/2021/02/Zolaxis-Patcher-Injector-APK-Download-Latest-Version-768x432.png"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://ezstarsapk.com/wp-content/uploads/2021/02/Zolaxis-Patcher-Injector-APK-Download-Latest-Version-768x432.png"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://ezstarsapk.com/wp-content/uploads/2021/02/Zolaxis-Patcher-Injector-APK-Download-Latest-Version-768x432.png"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://ezstarsapk.com/wp-content/uploads/2021/02/Zolaxis-Patcher-Injector-APK-Download-Latest-Version-768x432.png"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://apkmix.com/Logo/zolaxis-patcher-apk.jpg",
+        "text": "Zolaxis patcher Guide is an app made to let your read all the legend heroes skins and abilities including spells skills passive attacks and special powers and each heroes skins visual appearance of the abilities including all the kinds of heroes.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://apkmix.com/Logo/zolaxis-patcher-apk.jpg",
+        "text": "Zolaxis Patcher is a mobile application that demonstrates to you all heroes skins, you will get to know all the spells, skills, hit damage and special actions and the benefits that comes with changing and customizing the visual appearance of the lengdary characters with skins including all the kinds of heroes.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://apkmix.com/Logo/zolaxis-patcher-apk.jpg",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot.toopwombo",
+        "image_link": "https://apkmix.com/Logo/zolaxis-patcher-apk.jpg",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
