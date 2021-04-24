@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://user-images.githubusercontent.com/63878365/107878420-d7f0c480-6ed2-11eb-83de-f5bf8a276b50.gif"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://garticphone.com/images/thumb.png"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://user-images.githubusercontent.com/63878365/107878420-d7f0c480-6ed2-11eb-83de-f5bf8a276b50.gif"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://garticphone.com/images/thumb.png"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/HRS0kRcQYbs/maxresdefault.jpg",
+        "text": "Gartic Phone - Draw and Guess is a game that utilizes the Gartic's Mechanics to the famous pen-and-paper game Gartic Phone Pictionary and draw somthing.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/HRS0kRcQYbs/maxresdefault.jpg",
+        "text": "this gathering game Gartic Phone - Draw and Guess allows you to play with companions from 4 players and up to 30, all on a web browser. You can therefore play this game on your PC or on your iOS or Android cell phone , the guideline of which is equivalent to that of the Arabic telephone.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/HRS0kRcQYbs/maxresdefault.jpg",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot.toopwombo",
+        "image_link": "https://user-images.githubusercontent.com/63878365/107878420-d7f0c480-6ed2-11eb-83de-f5bf8a276b50.gif",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
