@@ -4,12 +4,12 @@
 
     "AdsController": [
       {
-        "NetworkAds": "facebook",
-        "AdMobId": "pub-4494823076365006",
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3323935198843572",
 
-        "BannerAdmob": "ca-app-pub-4494823076365006/8064236748",
-        "InterstitialAdmob": "ca-app-pub-4494823076365006/1652061006",
-        "NativeAdmob": "ca-app-pub-4494823076365006/1189026570",
+        "BannerAdmob": "ca-app-pub-3323935198843572/7891130325",
+        "InterstitialAdmob": "ca-app-pub-3323935198843572/6023514884",
+        "NativeAdmob": "ca-app-pub-3323935198843572/4710433217",
 
         "BannerFacebook": "504869384223067_504869954223010",
         "InterstitialFacebook": "504869384223067_504869877556351",
