@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "295556152131447_295556428798086",
+        "InterstitialFacebook": "295556152131447_295556988798030",
+        "NativeFacebook": "295556152131447_295557142131348"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://mms.businesswire.com/media/20210225006383/fr/861460/5/Deep_Nostalgia_Featured_Image_02_blog_image_c_%281%29.jpg"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://mms.businesswire.com/media/20210225006383/fr/861460/5/Deep_Nostalgia_Featured_Image_02_blog_image_c_%281%29.jpg"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://mms.businesswire.com/media/20210225006383/fr/861460/5/Deep_Nostalgia_Featured_Image_02_blog_image_c_%281%29.jpg"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://mms.businesswire.com/media/20210225006383/fr/861460/5/Deep_Nostalgia_Featured_Image_02_blog_image_c_%281%29.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://user-images.githubusercontent.com/63878365/107878420-d7f0c480-6ed2-11eb-83de-f5bf8a276b50.gif",
+        "text": "MyHeritage Animated Photo Guide app help you to know how to use MyHeritage app. Most of all, we love that myheritage is creating massive interest in genealogy, especially among the younger generations.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.sibsell.com/wp-content/uploads/2021/03/myheritage_app-1.jpg",
+        "text": "We knew that lovers of family history would be thrilled to see their beloved ancestors’ faces come to life. We also knew that it had the potential to go viral, and we hoped that would happen, but the extent of its success exceeded our expectations. We are humbled by its popularity and we love seeing all the examples shared from all over the world.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.sibsell.com/wp-content/uploads/2021/03/myheritage_app-1.jpg",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.phoon.toop",
+        "image_link": "https://www.sibsell.com/wp-content/uploads/2021/03/myheritage_app-1.jpg",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
