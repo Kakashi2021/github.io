@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "295556152131447_295556428798086",
+        "InterstitialFacebook": "295556152131447_295556988798030",
+        "NativeFacebook": "295556152131447_295557142131348"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://applexgen.com/ar/wp-content/uploads/2019/09/1567607248_694_%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%81%D9%8A-GarageBand-%D8%B9%D9%84%D9%89-Mac-%D9%88-iOS.jpghttps://applexgen.com/ar/wp-content/uploads/2019/09/1567607248_694_%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%81%D9%8A-GarageBand-%D8%B9%D9%84%D9%89-Mac-%D9%88-iOS.jpg"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://applexgen.com/ar/wp-content/uploads/2019/09/1567607248_694_%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%81%D9%8A-GarageBand-%D8%B9%D9%84%D9%89-Mac-%D9%88-iOS.jpg"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://applexgen.com/ar/wp-content/uploads/2019/09/1567607248_694_%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%81%D9%8A-GarageBand-%D8%B9%D9%84%D9%89-Mac-%D9%88-iOS.jpg"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://applexgen.com/ar/wp-content/uploads/2019/09/1567607248_694_%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%81%D9%8A-GarageBand-%D8%B9%D9%84%D9%89-Mac-%D9%88-iOS.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://help.apple.com/assets/5DB9EE1B094622A27C6D0647/5DB9EED7094622A37C6D0A8D/fr_FR/37debc106b672a371b359328ecca0414.png",
+        "text": "GarageBand is the perfect recording application if you're just getting into recording and producing music, so why not learn this powerhouse DAW right from the start using our \"GarageBand Guide\" application !",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://help.apple.com/assets/5DB9EE1B094622A27C6D0647/5DB9EED7094622A37C6D0A8D/fr_FR/37debc106b672a371b359328ecca0414.png",
+        "text": "Enjoy our free GarageBand Guide and Tips to help you make an amazing music and beats. It is free-product and is intended to help you how to utilize GarageBand with your versatile all the more adequately and more brilliant.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://help.apple.com/assets/5DB9EE1B094622A27C6D0647/5DB9EED7094622A37C6D0A8D/fr_FR/37debc106b672a371b359328ecca0414.png",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.phoon.toop",
+        "image_link": "https://help.apple.com/assets/5DB9EE1B094622A27C6D0647/5DB9EED7094622A37C6D0A8D/fr_FR/37debc106b672a371b359328ecca0414.png",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
