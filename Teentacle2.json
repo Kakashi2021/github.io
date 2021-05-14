@@ -4,16 +4,16 @@
 
     "AdsController": [
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "facebook",
         "AdMobId": "pub-3940256099942544",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-        "BannerFacebook": "295556152131447_295556428798086",
-        "InterstitialFacebook": "295556152131447_295556988798030",
-        "NativeFacebook": "295556152131447_295557142131348"
+        "BannerFacebook": "445024263477092_445024786810373",
+        "InterstitialFacebook": "445024263477092_445025126810339",
+        "NativeFacebook": "445024263477092_445025453476973"
 
       }
     ],
@@ -86,7 +86,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.phoon.toop",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.kariapps.tooper",
         "image_link": "https://image.winudf.com/v2/image1/Y29tLndlYnN4Y2FwLnRlbnRhY2xlbG9ja2VyLnRlbnRhY2xlZ3VpZGVfc2NyZWVuXzJfMTYxOTcyMDIwMV8wMjQ/screen-2.jpg?fakeurl=1&type=.jpg",
         "text": "Download the app from here",
         "isNative": "false"
