@@ -1,0 +1,90 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerFacebook": "IMG_16_9_APP_INSTALL",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL"
+      }
+    ],
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://www.alphabetagamer.com/wp-content/uploads/2015/09/PICO-PARK.gif"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://www.alphabetagamer.com/wp-content/uploads/2015/09/PICO-PARK.gif"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://www.alphabetagamer.com/wp-content/uploads/2015/09/PICO-PARK.gif"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://www.alphabetagamer.com/wp-content/uploads/2015/09/PICO-PARK.gif"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/cLBLZ1oLiUQ/maxresdefault.jpg",
+        "text": "Hello everyone, on this occasion the admin wants to share about how to download the pico park game which is viral on Social Media.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/cLBLZ1oLiUQ/maxresdefault.jpg",
+        "text": "Lately, the pico park mobile game is very busy on social media. This cute cat game is viral because of its exciting and interesting gameplay, that's why so many people are curious and want to download this pico park game.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/cLBLZ1oLiUQ/maxresdefault.jpg",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot",
+        "image_link": "https://i.ytimg.com/vi/cLBLZ1oLiUQ/maxresdefault.jpg",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
