@@ -1,0 +1,90 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerFacebook": "IMG_16_9_APP_INSTALL",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL"
+      }
+    ],
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://d.newsweek.com/en/full/1829970/ricka-nd-morty-still-season-5.jpg?w=1600&h=1600&q=88&f=3d72cded2ef21c9e4a5dcb493cf211b7"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://d.newsweek.com/en/full/1829970/ricka-nd-morty-still-season-5.jpg?w=1600&h=1600&q=88&f=3d72cded2ef21c9e4a5dcb493cf211b7"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://d.newsweek.com/en/full/1829970/ricka-nd-morty-still-season-5.jpg?w=1600&h=1600&q=88&f=3d72cded2ef21c9e4a5dcb493cf211b7"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://d.newsweek.com/en/full/1829970/ricka-nd-morty-still-season-5.jpg?w=1600&h=1600&q=88&f=3d72cded2ef21c9e4a5dcb493cf211b7"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rick-and-morty-season-5-episode-6-1627384293.jpg",
+        "text": "Rick and Morty's season five finale isn't airing for a little while, despite its penultimate episode airing as scheduled in the US.\n\nThe eighth episode aired Sunday night (July 8) over in the States, but Rick and Morty won't be delivering its hour-long finale until September, Collider is reporting.\n\nAfter finally revealing the story behind Rick and Birdperson's friendship, Rick and Morty will take a short break until returning to Adult Swim for its first double-length finale on September 5.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rick-and-morty-season-5-episode-6-1627384293.jpg",
+        "text": "Related: Rick and Morty just revealed that a major character has been dead all along\n\nThis is the first time fans have had to wait a month for a final episode, but it's also the first time the irreverent sitcom has delivered a 60-minute episode, so y'know, swings and roundabouts.\n\nRick and Morty's delay isn't the only difference between the show's current season and its predecessors, with showrunner Dan Harmon previously telling Digital Spy and other press about a shift in the series' tempo.\n\nExplaining the move to a more serialised approach to storytelling, Harmon said: \"It's really weird in animation because obviously Morty has to be 14 forever. Summer is 17 forever. Rick is whatever he is forever.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rick-and-morty-season-5-episode-6-1627384293.jpg",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot",
+        "image_link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rick-and-morty-season-5-episode-6-1627384293.jpg",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
