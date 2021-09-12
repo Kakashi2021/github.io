@@ -1,0 +1,90 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerFacebook": "IMG_16_9_APP_INSTALL",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL"
+      }
+    ],
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://play-lh.googleusercontent.com/7C2llP4fruqd5mgxfpesZmFuJNp8MVxT6-QVmafej6XriYaILhPQH3v2GITgOawSSQ"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://play-lh.googleusercontent.com/7C2llP4fruqd5mgxfpesZmFuJNp8MVxT6-QVmafej6XriYaILhPQH3v2GITgOawSSQ"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://play-lh.googleusercontent.com/7C2llP4fruqd5mgxfpesZmFuJNp8MVxT6-QVmafej6XriYaILhPQH3v2GITgOawSSQ"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://play-lh.googleusercontent.com/7C2llP4fruqd5mgxfpesZmFuJNp8MVxT6-QVmafej6XriYaILhPQH3v2GITgOawSSQ"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/WjutsUozU14/maxresdefault.jpg",
+        "text": "Ce jeu propose de nombreux modes de jeu impressionnants, notamment :\n\n- Achetez et vendez des objets de joueur sur le marché des transferts en ligne !\n- Jouez au draft en ligne contre d'autres utilisateurs !\n- Créer équipes à partir de cartes Nicotom 22\n- Draft rétro - avec cartes football 11-20 - Saisons: construisez votre club et atteignez la division 1 !\n- SBC - Complétez les SBC et gagnez des cartes exclusives !\n- Packs - ouvrez les packs et essayez de collecter toutes les cartes !",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/WjutsUozU14/maxresdefault.jpg",
+        "text": "Ce jeu propose de nombreux modes de jeu impressionnants, notamment :\n\n- Achetez et vendez des objets de joueur sur le marché des transferts en ligne !\n- Jouez au draft en ligne contre d'autres utilisateurs !\n- Créer équipes à partir de cartes Nicotom 22\n- Draft rétro - avec cartes football 11-20 - Saisons: construisez votre club et atteignez la division 1 !\n- SBC - Complétez les SBC et gagnez des cartes exclusives !\n- Packs - ouvrez les packs et essayez de collecter toutes les cartes !",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/WjutsUozU14/maxresdefault.jpg",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot",
+        "image_link": "https://i.ytimg.com/vi/WjutsUozU14/maxresdefault.jpg",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
