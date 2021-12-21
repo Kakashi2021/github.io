@@ -3,7 +3,7 @@
     "AdsController": [
       {
         "NetworkAds": "admob",
-        "AdMobId": "pub-8515358158936043",
+        "AdMobId": "pub-3940256099942544",
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
@@ -15,19 +15,19 @@
     "items": [
       {
         "title": "Guid 1",
-        "image": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png"
+        "image": "https://i.ytimg.com/vi/6VXcganpmeI/maxresdefault.jpg"
       },
       {
         "title": "Guid 2",
-        "image": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png"
+        "image": "https://i.ytimg.com/vi/6VXcganpmeI/maxresdefault.jpg"
       },
       {
         "title": "Guid 3",
-        "image": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png"
+        "image": "https://i.ytimg.com/vi/6VXcganpmeI/maxresdefault.jpg"
       },
       {
         "title": "Guid 4",
-        "image": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png"
+        "image": "https://i.ytimg.com/vi/6VXcganpmeI/maxresdefault.jpg"
       }
     ],
 
@@ -39,8 +39,8 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png",
-        "text": "ProxySoft - app with FREE VPN and private servers! Safely VPN",
+        "image_link": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/ss_1aa4b8455fdf430512f4079e43833b3308219c22.1920x1080.jpg?t=1634761279",
+        "text": "Have you ever thought about a brand new survival-running game with a horror character? It’s not a classic hide and seek poppy game as usual. Your task is clever, quick to gather as many crowds as possible, and run to the finish line!! You don’t have to hide and seek with Poppy anymore, scale your crowd on the race, and fight Poppy at the finish line. Enjoy this poppy playtime game and fight with the big boss scary doll at the end of the race.",
         "isNative": "false"
       }
     ],
@@ -53,8 +53,8 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png",
-        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "image_link": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/ss_1aa4b8455fdf430512f4079e43833b3308219c22.1920x1080.jpg?t=1634761279",
+        "text": "You will play as poppy and try to gather as many good items as possible. Don’t let huggy and wuggy lose the game.",
         "isNative": "false"
       }
     ],
@@ -67,7 +67,7 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png",
+        "image_link": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/ss_1aa4b8455fdf430512f4079e43833b3308219c22.1920x1080.jpg?t=1634761279",
         "text": "The last step is to download the game from the official website without interruption and very smoothly.",
         "isNative": "false"
       }
@@ -81,7 +81,7 @@
         "left": "10",
         "text_size": "25",
         "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot",
-        "image_link": "https://apktada.com/storage/images/com/proxysoft/softvpnproxy/com.proxysoft.softvpnproxy_1.png",
+        "image_link": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/ss_1aa4b8455fdf430512f4079e43833b3308219c22.1920x1080.jpg?t=1634761279",
         "text": "Download the app from here",
         "isNative": "false"
       }
