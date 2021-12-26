@@ -34,7 +34,7 @@
     "content1": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "normal",
+        "color": "#7BFF03","style": "normal",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
