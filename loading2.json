@@ -41,17 +41,17 @@
       "applovin rewarded": "6405227d47f8fe55",
 
 
-      "start Activity Inter": "admob",
-      "start Activity Native": "admob",
-      "start Activity Banner": ".",
+      "start Activity Inter": "facebook",
+      "start Activity Native": "facebook",
+      "start Activity Banner": "facebook",
 
-      "data Activity Inter": "admob",
-      "data Activity Native": "admob",
-      "data Activity Banner": "admob",
-      "data Activity Rewarded": "admob",
+      "data Activity Inter": "facebook",
+      "data Activity Native": "facebook",
+      "data Activity Banner": "facebook",
+      "data Activity Rewarded": "facebook",
 
-      "guide Activity Banner": "admob",
-      "guide Activity Native": "admob",
+      "guide Activity Banner": "applovin",
+      "guide Activity Native": "facebook",
 
 
       "clicks to show ad in list": "2",
@@ -70,7 +70,7 @@
 
 
       "show CPA": "false",
-      "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
+      "CPA image": "https://c.tenor.com/5wiVY3UovDMAAAAC/fnaf-fnaf-security-breach.gif",
       "CPA URL": "com.outfit7.talkingtomgoldrun",
       "is app suspended": "false",
 
@@ -81,9 +81,9 @@
     "items": [
 
       {
-        "image": "https://c.tenor.com/A8nYW41OQTMAAAAC/poppy-playtime-poppy.gif",
-        "title": "Stop your movements:",
-        "guide": "Just because you're in the air doesn't mean you can't adjust your course with a swipe. You can frequently knock them down before they've even delivered the ball. Instead of just waiting and hope you land someplace beneficial, utilize these to put yourself back in a good position to stop the following shot.",
+        "image": "https://c.tenor.com/5wiVY3UovDMAAAAC/fnaf-fnaf-security-breach.gif",
+        "title": "guide 1:",
+        "guide": "welcome to guide of the security breach, it will help you to know everything about the security breach game.you will find many tricks and walkthroughs. moreover, in this guide, you will discover how to complete all the security breach levels in the easiest way.",
         "guide 2": "somthing here",
         "VIP": "false",
         "ID": "1",
@@ -91,33 +91,46 @@
         "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://www.youtube.com/watch?v=n-4PHqKBO_I"
       },
       {
-        "image": "https://c.tenor.com/A8nYW41OQTMAAAAC/poppy-playtime-poppy.gif",
-        "title": "What are the gems for?",
-        "guide": "You may use the gems to purchase fresh balls. They don't make any mechanical changes to the game. So it's up to you to decide whether it's worthwhile. You'll get enough money by playing that you shouldn't bother viewing the videos to enhance your earnings.",
+        "image": "https://c.tenor.com/5wiVY3UovDMAAAAC/fnaf-fnaf-security-breach.gif",
+        "title": "guide 2:",
+        "guide": "in security breach you have to distract enemies by knocking over paint cans and toys just slip away before enemies are drawn to your location. hop into hiding spots and allow danger to pass, or try to outrun your pursuers.the security breach game guide contains many useful hidden secrets and many more to break down all stages & missions of this game in order to use it toward your advantage, written by a fan, perfect for beginners and intermediate players",
         "guide 2": "somthing here",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "2",
 
         "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://www.youtube.com/watch?v=n-4PHqKBO_I"
       },
       {
-        "image": "https://c.tenor.com/A8nYW41OQTMAAAAC/poppy-playtime-poppy.gif",
-        "title": "Special Thanks",
-        "guide": "Thank you for downloading our app, and we hope it will help you get better in the game :)",
-        "guide 2": "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?<br>Short answer:<br> It depends on you. <br>Long answer:<br> You have access to do almost anything you want. Now it’s your choice what you want to do.<br>That said:<br>Lucky Patcher is the app that gives you God Mode in using any app on your android device. In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.<br>Want to know the best part?<br>You can even download paid apps officially from the play store directly without paying any money.<br>Here’s how:<br>This app bypasses the play store security & billing section while buying any paid apps.<br>It gets better:<br>When you find your android device free from any type of ads.<br>Just imagine:<br>There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.<br>How’s that possible?<br>The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.I know how great it feels like to use apps without seeing those creepy ads.<br>Ever thought of using pro versions of different apps?<br>Do you even know:How fascinating is it to use a pro version of an app? Well, if you haven’t used then sad reacts for you.But don’t worry. Lucky Patcher has got your back.<br>Lucky Patcher will let you use the pro versions of any app with just by few clicks.Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.Lucky Patcher is always up to date to serve your purpose. You can download the awesome app for free now in the next page. <br><b>Go Back To Menu And Select The Third Page For Downloading The App</b>",
+        "image": "https://c.tenor.com/5wiVY3UovDMAAAAC/fnaf-fnaf-security-breach.gif",
+        "title": "guide 3",
+        "guide": "security breach is the latest installment of the family friendly horror games loved by millions of players from all over the globe. play as gregory, a young boy trapped overnight in mega pizzaplex.we hope that with new guide of the security breach become good at playing it.",
+        "guide 2": "somthing here",
         "VIP": "false",
         "ID": "3",
 
         "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://www.youtube.com/watch?v=n-4PHqKBO_I"
+      },
+      {
+        "image": "https://c.tenor.com/5wiVY3UovDMAAAAC/fnaf-fnaf-security-breach.gif",
+        "title": "Download the game from here",
+        "guide": "Thank you for downloading our app, and we hope it will help you get better in the game :)",
+        "guide 2": "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?<br>Short answer:<br> It depends on you. <br>Long answer:<br> You have access to do almost anything you want. Now it’s your choice what you want to do.<br>That said:<br>Lucky Patcher is the app that gives you God Mode in using any app on your android device. In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.<br>Want to know the best part?<br>You can even download paid apps officially from the play store directly without paying any money.<br>Here’s how:<br>This app bypasses the play store security & billing section while buying any paid apps.<br>It gets better:<br>When you find your android device free from any type of ads.<br>Just imagine:<br>There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.<br>How’s that possible?<br>The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.I know how great it feels like to use apps without seeing those creepy ads.<br>Ever thought of using pro versions of different apps?<br>Do you even know:How fascinating is it to use a pro version of an app? Well, if you haven’t used then sad reacts for you.But don’t worry. Lucky Patcher has got your back.<br>Lucky Patcher will let you use the pro versions of any app with just by few clicks.Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.Lucky Patcher is always up to date to serve your purpose. You can download the awesome app for free now in the next page. <br><b>Go Back To Menu And Select The Third Page For Downloading The App</b>",
+        "VIP": "true",
+        "ID": "4",
+
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=n-4PHqKBO_I"
       }
     ]
   }
