@@ -31,14 +31,14 @@
       "unity app id": "4305873",
       "unity test mode": "true",
 
-      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook banner": "376280760925120_376288270924369",
+      "facebook interstitial": "376280760925120_376287900924406",
+      "facebook native": "376280760925120_376288130924383",
+      "facebook rewarded": "376280760925120_376291557590707",
 
-      "applovin banner": "13482be8f771efc7",
-      "applovin interstitial": "37c0fd7e2939a3be",
-      "applovin rewarded": "6405227d47f8fe55",
+      "applovin banner": "ac5fad731a05aa55",
+      "applovin interstitial": "99f8e781eee68931",
+      "applovin rewarded": "d1e656aa8074068e",
 
 
       "start Activity Inter": "facebook",
@@ -81,7 +81,7 @@
     "items": [
 
       {
-        "image": "https://c.tenor.com/5wiVY3UovDMAAAAC/fnaf-fnaf-security-breach.gif",
+        "image": "https://c.tenor.com/A8nYW41OQTMAAAAC/poppy-playtime-poppy.gif",
         "title": "guide 1:",
         "guide": "Poppy Playtime is a puzzle and horror adventure where you have to explore the toy factory while staying away from animatronics that went frenzy. You must stay alive in this horror/puzzle adventure, and it is not easy. Try to survive the vengeful toys waiting silently for you in the toy factory.",
         "guide 2": "somthing here",
