@@ -31,10 +31,10 @@
       "unity app id": "4305873",
       "unity test mode": "true",
 
-      "facebook banner": "376280760925120_376288270924369",
-      "facebook interstitial": "376280760925120_376287900924406",
-      "facebook native": "376280760925120_376288130924383",
-      "facebook rewarded": "376280760925120_376291557590707",
+      "facebook banner": "640133720566066_640143350565103",
+      "facebook interstitial": "640133720566066_640143470565091",
+      "facebook native": "640133720566066_640143623898409",
+      "facebook rewarded": "640133720566066_640145547231550",
 
       "applovin banner": "ac5fad731a05aa55",
       "applovin interstitial": "99f8e781eee68931",
@@ -50,7 +50,7 @@
       "data Activity Banner": "facebook",
       "data Activity Rewarded": "facebook",
 
-      "guide Activity Banner": "applovin",
+      "guide Activity Banner": "facebook",
       "guide Activity Native": "facebook",
 
 
