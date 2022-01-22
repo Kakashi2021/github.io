@@ -31,10 +31,10 @@
       "unity app id": "4305873",
       "unity test mode": "true",
 
-      "facebook banner": "964756911131920_964757477798530",
-      "facebook interstitial": "964756911131920_964757537798524",
-      "facebook native": "964756911131920_964757607798517",
-      "facebook rewarded": "..",
+      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 
       "applovin banner": "d9c6d1eb059b43f2",
       "applovin interstitial": "61ae27767543499d",
