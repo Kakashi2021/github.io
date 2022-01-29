@@ -31,14 +31,14 @@
       "unity app id": "4305873",
       "unity test mode": "true",
 
-      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook banner": "3136030819973089_3136033043306200",
+      "facebook interstitial": "3136030819973089_3136033116639526",
+      "facebook native": "3136030819973089_3136033273306177",
+      "facebook rewarded": "VID_HD_16_9__AP#YOUR_PLACEMENT_ID",
 
-      "applovin banner": "d9c6d1eb059b43f2",
-      "applovin interstitial": "61ae27767543499d",
-      "applovin rewarded": "6405227d47f8fy55",
+      "applovin banner": "cb4f949c9e523303",
+      "applovin interstitial": "e102d4391d56bcd9",
+      "applovin rewarded": "721c294ec9eb0201",
 
 
       "start Activity Inter": "facebook",
@@ -54,8 +54,8 @@
       "guide Activity Native": "facebook",
 
 
-      "clicks to show ad in list": "2",
-      "ad position in list": "2",
+      "clicks to show ad in list": "1",
+      "ad position in list": "5",
 
       "show faces rate dialog": "true",
       "show faces rate": "true",
